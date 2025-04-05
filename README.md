@@ -5,10 +5,10 @@ A simple C program to collect student data like student name,roll no.,no. of sub
 --------------
 
 ## Features
--Flexible to handle performance data of multiple students.
--Rollno validation test.
--Validation for number of students  within the valid range,
--Outputs total score,percentage,and classification.
+# -Flexible to handle performance data of multiple students.
+# -Rollno validation test.
+# -Validation for number of students  within the valid range,
+# -Outputs total score,percentage,and classification.
 --------------
 
 ## How to Run
@@ -17,7 +17,7 @@ Compile the file using any C compiler:
 ***bash
 gcc student_proj1.c -o student_proj1./student_proj1
 
-# Note:For clear screen in the output append the code with,
+### Note:For clear screen in the output append the code with,
 system("cls");   //for Windows OS
 system("clear"); //for Mac/Linux OS
 --------------
