@@ -1,4 +1,3 @@
-![MIT License](https://img.shields.io/github/license/tecnolgd/ACADEMIC-PERFORMANCE_GEN)
 
 
 # Academic Performance  Report generator
