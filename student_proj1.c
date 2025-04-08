@@ -66,7 +66,7 @@ int main(){
                                     break;
                                  default :
                                      printf("INVALID !");
-                                    break;
+                                    
                              
                                 }
                                  printf("\n-------------------------");//students info separtor
