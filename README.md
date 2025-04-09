@@ -8,7 +8,7 @@ A simple C program to collect student data like student name, roll no., no. of s
 --------------
 ##  Sample Output
 
-![Sample Output](output_screenshots/academic_report_output.png)
+![Sample Output](./output_screenshots/academic_report_output.png)
 
 
 ## Features
