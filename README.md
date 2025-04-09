@@ -6,6 +6,10 @@
 
 A simple C program to collect student data like student name, roll no., no. of subjects, marks in each subjects(out of 100), and display the total score, percentage and  class/division classification.
 --------------
+##  Sample Output
+
+![Sample Output](./screenshots/academic_report_output.png)
+
 
 ## Features
 ### -Flexible to handle performance data of multiple students.
