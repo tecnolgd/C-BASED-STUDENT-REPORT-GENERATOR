@@ -5,6 +5,7 @@
 #include <stdio.h>
 
 int main(){
+    
     int total,no_of_students,disp_students,roll_no,b,sub_marks[100],n,grade_of_ten; //Declare necessary variables for processing student data
     float percentage;
     char name[20];
