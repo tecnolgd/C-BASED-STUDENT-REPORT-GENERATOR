@@ -1,4 +1,4 @@
-//Project name:ACADEMIC REPORT PROGRAM(v1.o) USING BASIC C.
+//Project name:ACADEMIC REPORT GENERATOR(v1.o) USING BASIC C.
 //Description: Takes input of student details, subject marks, and prints total marks,percentage and division/class.
 //Author:codelgd
 
@@ -82,7 +82,7 @@ int main(){
                      break;
             } 
                  else {
-                        printf("Student strength is invalid.Try   again\n\n");//output for invalid student strength
+                        printf("Student strength is invalid.Try again\n\n");//output for invalid student strength
                         k--;//decrement outer loop counter to retry on invalid student strength input
                         printf("\n=========================\n");
                      }                                                 
