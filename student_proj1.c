@@ -19,7 +19,7 @@ int main(){
     
             if((disp_students<=no_of_students)&&(disp_students>0)){//validation of  information display of required no of students
 
-                for(int i=1;i<=disp_students;i++){//s
+                for(int i=1;i<=disp_students;i++){//loop to reattempt roll no.
                     printf("\nEnter student %d rollno :",i);
                     scanf("%d",&roll_no);
 
