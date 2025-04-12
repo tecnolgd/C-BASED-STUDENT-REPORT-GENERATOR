@@ -21,13 +21,15 @@ A simple C program to collect student data like student name, roll no., no. of s
 ## How to Run
 Compile the file using any C compiler:
 
+
 ***bash
 
 ### gcc student_proj1.c -o student_proj1./student_proj1
+--------------
 
 ### Note:For clear screen in the output append the code with,
-## system("cls");     //### for Windows OS
-## system("clear");   //### for Mac/Linux OS
+## system("cls");    ----// for Windows OS
+## system("clear");  ----//for Mac/Linux OS
 --------------
 ### Value in this Repo?
 If this repository added value to your learning or dev flow, consider dropping a **⭐ star** or hitting **fork**.
