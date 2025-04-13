@@ -5,7 +5,6 @@
 #include <stdio.h>
 
 int main(){
-    
     int total,no_of_students,disp_students,roll_no,b,sub_marks[100],n,grade_of_ten; //Declare necessary variables for processing student data
     float percentage;
     char name[20];
@@ -76,7 +75,7 @@ int main(){
                             else{
                                 printf("\nRoll no is invalid.Try again!\n");//output for invalid rollno
                                 i--;
-                                printf("\n=========================\n");
+                                printf("\n=========================\n");//correct info output seperator
                             }
                     }   
                      break;
@@ -84,10 +83,10 @@ int main(){
                  else {
                         printf("Student strength is invalid.Try again\n\n");//output for invalid student strength
                         k--;//decrement outer loop counter to retry on invalid student strength input
-                        printf("\n=========================\n");
+                        printf("\n=========================\n");//correct info seperators
                      }                                                 
     }
-    printf("\n\t************");//ending liner
+    printf("\n\t************");//ending line boundary
     return 0;
 
 }
