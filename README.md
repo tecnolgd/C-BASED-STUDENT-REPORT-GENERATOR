@@ -22,7 +22,7 @@ A simple C program to collect student data like student name, roll no., no. of s
 Compile the file using any C compiler:
 
 
-***bash
+***bash(command line):
 
 ### gcc student_proj1.c -o student_proj1./student_proj1
 --------------
