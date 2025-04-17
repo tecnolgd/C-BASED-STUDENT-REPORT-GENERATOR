@@ -9,11 +9,10 @@ A simple C program to collect student data like
 * roll number
 * number of subjects
 * marks in each subjects(out of 100) 
-
 and display
    * total score
-   **** percentage 
-   **** class/division classification
+   * percentage 
+   * class/division classification
 --------------
 ##  Sample Output:
 
@@ -34,13 +33,13 @@ bash(command line)
 ### *gcc student_proj1.c -o student_proj1./student_proj1* ###
 --------------
 
-### Note:For clear screen in the output,append the code with---
+*Note*:For clear screen in the output,append the code with
 
-//for WINDOWS OS
 ## *system("cls");*
+/for WINDOWS OS
 
-//for MAC/LINUX OS
-## *system("clear");*  
+## *system("clear");*
+//for MAC/LINUX OS  
 --------------
 ### Value in this Repo?
 If this repository added value to your learning or dev flow, consider dropping a ⭐ *star* or hitting *fork*.
