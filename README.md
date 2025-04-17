@@ -9,8 +9,7 @@ A simple C program to collect student data like
 * roll number
 * number of subjects
 * marks in each subjects(out of 100)
-
- and display
+and display
  * total score
  * percentage 
  * class/division classification
