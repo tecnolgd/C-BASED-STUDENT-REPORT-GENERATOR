@@ -8,11 +8,12 @@ A simple C program to collect student data like
 * student name
 * roll number
 * number of subjects
-* marks in each subjects(out of 100)
+* marks in each subjects(out of 100) 
+
 and display
- * total score
- * percentage 
- * class/division classification
+   * total score
+   * percentage 
+   * class/division classification
 --------------
 ##  Sample Output:
 
@@ -28,7 +29,6 @@ and display
 
 ## How to Run?
 Compile the file using any C compiler:
-
 
 bash(command line)
 
