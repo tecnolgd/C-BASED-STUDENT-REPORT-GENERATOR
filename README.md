@@ -11,7 +11,7 @@ A simple C program to collect student data like
 * marks in each subjects(out of 100) 
 
 and display
-   **** total score
+   * total score
    **** percentage 
    **** class/division classification
 --------------
