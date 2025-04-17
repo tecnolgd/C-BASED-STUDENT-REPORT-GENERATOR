@@ -11,9 +11,9 @@ A simple C program to collect student data like
 * marks in each subjects(out of 100) 
 
 and display
-   * total score
-   * percentage 
-   * class/division classification
+   **** total score
+   **** percentage 
+   **** class/division classification
 --------------
 ##  Sample Output:
 
@@ -31,7 +31,6 @@ and display
 Compile the file using any C compiler:
 
 bash(command line)
-
 ### *gcc student_proj1.c -o student_proj1./student_proj1* ###
 --------------
 
