@@ -23,19 +23,19 @@ A simple C program to collect student data like
 * ### Flexible to handle performance data of multiple students.
 * ### Rollno validation test.
 * ### Validation for number of students  within the valid range,
-### -Outputs **total score**,**percentage**,and **classification**.
+* ### Outputs *total score*,*percentage*,and *classification*.
 --------------
 
 ## How to Run?
 Compile the file using any C compiler:
 
 
-***bash(command line):
+***bash(command line)***
 
-### gcc student_proj1.c -o student_proj1./student_proj1
+### gcc student_proj1.c -o student_proj1./student_proj1 ###
 --------------
 
-### Note:For clear screen in the output append the code with,
+### Note:For clear screen in the output,append the code with---
 
 //for WINDOWS OS
 ## system("cls");
@@ -44,7 +44,7 @@ Compile the file using any C compiler:
 ## system("clear");  
 --------------
 ### Value in this Repo?
-If this repository added value to your learning or dev flow, consider dropping a **⭐ star** or hitting **fork**.
+If this repository added value to your learning or dev flow, consider dropping a ⭐ *star* or hitting *fork*.
 --------------
 
 ## Author
