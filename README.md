@@ -4,8 +4,15 @@
 # Academic Performance  Report generator
 
 
-A simple C program to,
-* collect student data like student name, roll no., no. of subjects, marks in each subjects(out of 100), and display the total score, percentage and  class/division classification.
+A simple C program to collect student data like 
+* student name
+* roll number
+* number of subjects
+* marks in each subjects(out of 100)
+ and display
+ * total score
+ * percentage 
+ * class/division classification
 --------------
 ##  Sample Output:
 
@@ -13,9 +20,9 @@ A simple C program to,
 
 
 ## Features:
-### -Flexible to handle performance data of multiple students.
-### -Rollno validation test.
-### -Validation for number of students  within the valid range,
+* ### Flexible to handle performance data of multiple students.
+* ### Rollno validation test.
+* ### Validation for number of students  within the valid range,
 ### -Outputs **total score**,**percentage**,and **classification**.
 --------------
 
