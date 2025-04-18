@@ -33,13 +33,13 @@ bash(command line)
 ### *gcc student_proj1.c -o student_proj1./student_proj1* ###
 --------------
 
-*Note*:For clear screen in the output,append the code with
+Note:*For clear screen in the output,append the code with*
 
 ## *system("cls");*
 //for WINDOWS OS
 
 ## *system("clear");*
-//for MAC/LINUX OS 
+//for MAC/LINUX OS  
 
 --------------
 ### Value in this Repo?
