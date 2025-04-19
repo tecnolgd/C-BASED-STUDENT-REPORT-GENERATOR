@@ -21,7 +21,7 @@ and display
 
 ## Features:
 * ### Flexible to handle performance data of multiple students.
-* ### Rollno validation test.
+* ### Roll number validation test.
 * ### Validation for number of students  within the valid range,
 * ### Outputs *total score*,*percentage*,and *classification*.
 --------------
@@ -30,9 +30,8 @@ and display
 Compile the file using any C compiler:
 
 bash(command line)
-### *gcc student_proj1.c -o student_proj1./student_proj1* ###
+### *gcc student_proj1.c -o student_proj1./student_proj1* 
 --------------
-
 Note:*For clear screen in the output,append the code with*
 
 ## *system("cls");*
