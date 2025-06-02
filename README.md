@@ -30,7 +30,7 @@ and display
 Compile the file using any C compiler:
 
 bash(command line)
-### *gcc student_proj1.c -o student_proj1./student_proj1* 
+### *gcc student_proj1.c -o student_proj1 && student_proj1*
 --------------
 Note:*For clear screen in the output,append the code with*
 
