@@ -28,7 +28,7 @@ and display
 
 ## How to Run?
 1) Compile the file using any C compiler:
-*gcc student_proj1.c -o student_proj1 && student_proj1*
+***gcc student_proj1.c -o student_proj1 && student_proj1***
 2) The application will open for user interaction in the terminal.
 ---
 Note:*For clear screen in the output,append the code with*
