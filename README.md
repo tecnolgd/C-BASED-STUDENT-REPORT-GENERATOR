@@ -1,4 +1,5 @@
 ![MIT License](https://img.shields.io/github/license/tecnolgd/ACADEMIC-PERFORMANCE_GEN?style=flat)
+![Static Badge](https://img.shields.io/badge/Open-Source-blue)
 
 
 # Academic Performance  Report generator
