@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/Open-Source-blue)
 
 
-# Academic Performance  Report generator
+# Academic Performance  Report generator💯🎓
 
 
 A simple C program to collect student data like 
@@ -15,19 +15,19 @@ and display
    * percentage 
    * class/division classification
 ---
-## Sample Output:
+## Sample Output🖼:
 
 ![Sample Output](output_screenshots/academic_report_output.png)
 
 
-## Features:
+## Features⚙️⚙️:
 * Flexible to handle performance data of multiple students.
 * Roll number validation test.
 * Validation for number of students  within the valid range,
 * Outputs *total score*,*percentage*,and *classification*.
 ---
 
-## How to Run?
+## How to Run❓️
 1) Compile the file using any C compiler:
 ***gcc student_proj1.c -o student_proj1 && student_proj1***
 2) The application will open for user interaction in the terminal.
@@ -42,7 +42,7 @@ Note:*For clear screen in the output,append the code with*
 
 ---
 
-## Value in this Repo?     
+## Value in this Repo💫?     
 * If this repository added value to your learning or dev flow, consider dropping a ⭐ *star* or hitting *fork*.
 ---
 
