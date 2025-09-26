@@ -34,7 +34,6 @@ int main(){
                             scanf("%d", &sub_marks[b]);
                             total +=sub_marks[b];
                         }
-            
                         percentage=(float)total/n;
                         grade_of_ten=(int)(percentage/10);//converting percentage to grade out of 10
                         printf("\nName :%s",name);//display student name
