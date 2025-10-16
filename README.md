@@ -19,7 +19,6 @@ and display
 
 ![Sample Output](output_screenshots/academic_report_output.png)
 
-
 ## Features⚙️⚙️:
 * Flexible to handle performance data of multiple students.
 * Roll number validation test.
@@ -30,12 +29,13 @@ and display
 ## How to Run❓️
 1) Open the terminal.
 2) Compile the file using any C compiler:
-``` gcc student_proj1.c -o student_proj1 && student_proj1
+```bash
+ gcc student_proj1.c -o student_proj1 && student_proj1
 ```
 3) The application will open for user interaction in the terminal.
 ---
 Note: *For clear screen in the output,append the code with*
-```
+```bash
 * system("cls");    //for WINDOWS OS
 
 * system("clear");    //for MAC/LINUX OS  
@@ -43,7 +43,6 @@ Note: *For clear screen in the output,append the code with*
 
 ## Value in this Repo💫?     
 * If this repository added value to your learning or dev flow, consider dropping a ⭐ *star* or hitting *fork*.
----
 
 #### Author
 ***tecnolgd***
