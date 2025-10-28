@@ -42,7 +42,7 @@ and display
 3) The application will open for user interaction in the terminal.
 ---
 Note: *For clear screen in the output,append the code with*
-```bash
+```c
 * system("cls");    //for WINDOWS OS
 
 * system("clear");    //for MAC/LINUX OS  
