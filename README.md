@@ -47,6 +47,9 @@ Note: *For clear screen in the output,append the code with*
 
 * system("clear");    //for MAC/LINUX OS  
 ```
+## Readme Add-ons ➕️
+- [x] Working process description
+- [x] Comments in source code
 
 ## Value in this Repo💫?     
 * If this repository added value to your learning or dev flow, consider dropping a ⭐ *star* or hitting *fork*.
