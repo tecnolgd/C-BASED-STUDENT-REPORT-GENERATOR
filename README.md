@@ -40,12 +40,11 @@ and display
  gcc student_proj1.c -o student_proj1 && student_proj1
 ```
 3) The application will open for user interaction in the terminal.
----
-Note: *For clear screen in the output,append the code with*
+**(Note)**: *For clear screen in the output,append the code with*
 ```c
 * system("cls");    //for WINDOWS OS
 
-* system("clear");    //for MAC/LINUX OS  
+* system("clear");   //for MAC/LINUX OS  
 ```
 ## Readme Add-ons ➕️
 - [x] Working process description
