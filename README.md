@@ -26,10 +26,17 @@ and display
 * Validation for number of students  within the valid range,
 * Outputs **total score**,**percentage**,and **classification**.
 
+## How it works❓️
+1.This application can handle calculation of n studenf mark data.
+2. The student count is inputed by the user.
+3. The name and roll no of the students is inputed to the CLI seperately.
+4. Some error handling instructions make sure the input is feasible.
+5. The individual total score of student along with class/division is displayed.
+6. A neatly formatted output is generated.
 
-## How to Run❓️
-1) Open the terminal.
-2) Compile the file using any C compiler:
+## How to Run🔛
+1) Clone the repo and open terminal.
+3) Compile the file using any C compiler:
 ```bash
  gcc student_proj1.c -o student_proj1 && student_proj1
 ```
